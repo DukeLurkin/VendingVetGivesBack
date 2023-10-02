@@ -1,0 +1,21 @@
+.Contact {
+  /* color:azure; */
+  /* object-position: center; */
+  color: rgb(251, 251, 249);
+  text-align: center;
+  background-image: url("C:\Users\durki\Desktop\Client Projects\sandbox\VendingVetGivesBack\src\armyCamoBackground.jpg");
+  background-size: cover;
+  height: 1000px;
+  padding: 0;
+  margin: 0;
+}
+
+.Contact p {
+  font-weight: 500;
+  color: rgb(255, 183, 0);
+  font-size: 25px;
+  margin: 85px 0 0 0;
+  width: 500px;
+  display: inline-block;
+  /* max-width: 1000px; */
+}

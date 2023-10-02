@@ -1,0 +1,9 @@
+.Resume {
+  color:rgb(253, 252, 250);
+  text-align: center;
+  background-image: url("C:\Users\durki\Desktop\Client Projects\sandbox\VendingVetGivesBack\src\armyCamoBackground.jpg");
+  background-size: cover;
+  height: 1000px;
+  padding: 0;
+  margin: 0;
+}
