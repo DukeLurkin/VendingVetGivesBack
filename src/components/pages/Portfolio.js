@@ -3,7 +3,7 @@ import picture1 from "../../trumpetArmy.jpg";
 import picture2 from "../../giveBackCommunity.png";
 import picture7 from "../../romareBeardenPark.jpg";
 import picture4 from "../../freedomPark.png";
-import picture5 from "../../stockArmySoldier.jpg";
+import picture5 from "../../music.jpg";
 import picture6 from "../../downtownLocations.jpg";
 import "../../styles/Portfolio.css";
 
@@ -30,7 +30,7 @@ export default function Portfolio() {
               </a>
             </div>
             <div className='col-md-4'>
-            <h4>Sign Up</h4>
+            <h4>Music</h4>
             <a href="https://www.goarmy.com/">
             <img src={picture5}></img>
             </a>

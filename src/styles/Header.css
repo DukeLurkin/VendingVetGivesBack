@@ -2,10 +2,10 @@
 
   background-color: rgb(0, 0, 43);
   background-position: center;
-  background-image: url("https://cdn1.epicgames.com/ue/product/Screenshot/gallery01ue5-1920x1080-ce8c734b5d4e6815b347faccb5cd2ff7.png?resize=1&w=1920");
-  background-size: 2000px 500px;
+  background-image: url("C:\Users\durki\Desktop\Client Projects\sandbox\VendingVetGivesBack\src\vendingMachinesHeader.png");
+  background-size: 1500px 500px;
   /* width: 800px; */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   
 
 
@@ -13,9 +13,9 @@
 
 .header h1 {
   margin: 0;
-  padding-top: 75px;
+  padding-top: 200px;
   text-align: center;
-  color: rgb(241, 240, 231);
+  color: rgb(255, 255, 255);
   font-size: 5rem;
 }
 
