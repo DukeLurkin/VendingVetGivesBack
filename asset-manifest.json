@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.07ddbe67.css",
-    "main.js": "/ReactPortfolio/static/js/main.34b948f1.js",
-    "static/media/downtownLocations.jpg": "/ReactPortfolio/static/media/downtownLocations.21f2b8980a31074a67e5.jpg",
-    "static/media/freedomPark.png": "/ReactPortfolio/static/media/freedomPark.ba921e9be6a24e9e0d8c.png",
-    "static/media/vendingMachinesHeader.png": "/ReactPortfolio/static/media/vendingMachinesHeader.5a458dddb523dca02ac6.png",
-    "static/media/giveBackCommunity.png": "/ReactPortfolio/static/media/giveBackCommunity.051378533e7d6ad05d09.png",
-    "static/media/romareBeardenPark.jpg": "/ReactPortfolio/static/media/romareBeardenPark.84c2633ec7288e485ea8.jpg",
-    "static/media/stockArmySoldier.jpg": "/ReactPortfolio/static/media/stockArmySoldier.88f77e9927e75a77d48a.jpg",
-    "static/media/armyCamoBackground.jpg": "/ReactPortfolio/static/media/armyCamoBackground.31f016c57c4df420cfd4.jpg",
-    "static/media/trumpetArmy.jpg": "/ReactPortfolio/static/media/trumpetArmy.d037c06c4bf7c18e1d34.jpg",
-    "static/media/music.jpg": "/ReactPortfolio/static/media/music.26c25663c159b60fb6a0.jpg",
-    "static/media/resume.pdf": "/ReactPortfolio/static/media/resume.d7ef130f4dca291f4044.pdf",
-    "index.html": "/ReactPortfolio/index.html",
-    "main.07ddbe67.css.map": "/ReactPortfolio/static/css/main.07ddbe67.css.map",
-    "main.34b948f1.js.map": "/ReactPortfolio/static/js/main.34b948f1.js.map"
+    "main.css": "/VendingVetGivesBack/static/css/main.1b189e91.css",
+    "main.js": "/VendingVetGivesBack/static/js/main.16104f90.js",
+    "static/media/downtownLocations.jpg": "/VendingVetGivesBack/static/media/downtownLocations.21f2b8980a31074a67e5.jpg",
+    "static/media/freedomPark.png": "/VendingVetGivesBack/static/media/freedomPark.ba921e9be6a24e9e0d8c.png",
+    "static/media/vendingMachinesHeader.png": "/VendingVetGivesBack/static/media/vendingMachinesHeader.5a458dddb523dca02ac6.png",
+    "static/media/giveBackCommunity.png": "/VendingVetGivesBack/static/media/giveBackCommunity.051378533e7d6ad05d09.png",
+    "static/media/romareBeardenPark.jpg": "/VendingVetGivesBack/static/media/romareBeardenPark.84c2633ec7288e485ea8.jpg",
+    "static/media/stockArmySoldier.jpg": "/VendingVetGivesBack/static/media/stockArmySoldier.88f77e9927e75a77d48a.jpg",
+    "static/media/armyCamoBackground.jpg": "/VendingVetGivesBack/static/media/armyCamoBackground.31f016c57c4df420cfd4.jpg",
+    "static/media/trumpetArmy.jpg": "/VendingVetGivesBack/static/media/trumpetArmy.d037c06c4bf7c18e1d34.jpg",
+    "static/media/music.jpg": "/VendingVetGivesBack/static/media/music.26c25663c159b60fb6a0.jpg",
+    "static/media/resume.pdf": "/VendingVetGivesBack/static/media/resume.d7ef130f4dca291f4044.pdf",
+    "index.html": "/VendingVetGivesBack/index.html",
+    "main.1b189e91.css.map": "/VendingVetGivesBack/static/css/main.1b189e91.css.map",
+    "main.16104f90.js.map": "/VendingVetGivesBack/static/js/main.16104f90.js.map"
   },
   "entrypoints": [
-    "static/css/main.07ddbe67.css",
-    "static/js/main.34b948f1.js"
+    "static/css/main.1b189e91.css",
+    "static/js/main.16104f90.js"
   ]
 }
